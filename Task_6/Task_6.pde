@@ -13,7 +13,6 @@ int c3 = black;
 void setup() {
   size(400, 500);
   rectMode(CENTER);
-  frameRate(30);
 }
 
 void draw () {
