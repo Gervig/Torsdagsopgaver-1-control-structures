@@ -7,7 +7,7 @@ int age = 32;
 println(age);
 
 // 2.c
-boolean happy = true;
+boolean happy = false;
 
 // 2.d
 String clap;
@@ -15,7 +15,7 @@ String clap;
 if (happy) {
 clap = "";
 } else {
-clap = "dont";
+clap = " dont";
 }
 
 println("Hi my name is " + name + " I am " + age + " years old");
