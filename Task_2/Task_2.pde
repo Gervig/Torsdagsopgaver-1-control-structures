@@ -7,7 +7,7 @@ int age = 32;
 println(age);
 
 // 2.c
-boolean happy = false;
+boolean happy = true;
 
 // 2.d
 String clap;
