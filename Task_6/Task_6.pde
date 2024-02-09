@@ -10,10 +10,6 @@ int c1 = red;
 int c2 = black;
 int c3 = black;
 
-//boolean redBool = false;
-//boolean yellowBool = false;
-//boolean greenBool = false;
-
 void setup() {
   size(400, 500);
   rectMode(CENTER);
